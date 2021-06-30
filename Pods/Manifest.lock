@@ -1,0 +1,107 @@
+PODS:
+  - Alamofire (5.4.3)
+  - EmptyDataSet-Swift (5.0.0)
+  - HandyJSON (5.0.2)
+  - HMSegmentedControl (1.5.6)
+  - IQKeyboardManagerSwift (6.5.6)
+  - JXSegmentedView (1.2.7)
+  - Kingfisher (6.3.0)
+  - LCActionSheet (3.5.4):
+    - Masonry (~> 1.1.0)
+  - Masonry (1.1.0)
+  - MBProgressHUD (1.2.0)
+  - MJRefresh (3.6.1)
+  - Moya (14.0.0):
+    - Moya/Core (= 14.0.0)
+  - Moya/Core (14.0.0):
+    - Alamofire (~> 5.0)
+  - PPBadgeView (3.1.0)
+  - RealReachability (1.3.0):
+    - RealReachability/Connection (= 1.3.0)
+    - RealReachability/Ping (= 1.3.0)
+  - RealReachability/Connection (1.3.0)
+  - RealReachability/Ping (1.3.0)
+  - Reusable (4.1.1):
+    - Reusable/Storyboard (= 4.1.1)
+    - Reusable/View (= 4.1.1)
+  - Reusable/Storyboard (4.1.1)
+  - Reusable/View (4.1.1)
+  - SCLAlertView (0.8)
+  - SnapKit (5.0.1)
+  - SnapKitExtend (1.1.0):
+    - SnapKit
+  - Then (2.7.0)
+  - Toast-Swift (5.0.1)
+  - TTTAttributedLabel (2.0.0)
+
+DEPENDENCIES:
+  - EmptyDataSet-Swift
+  - HandyJSON
+  - HMSegmentedControl
+  - IQKeyboardManagerSwift
+  - JXSegmentedView
+  - Kingfisher
+  - LCActionSheet
+  - MBProgressHUD
+  - MJRefresh
+  - Moya
+  - PPBadgeView
+  - RealReachability
+  - Reusable
+  - SCLAlertView
+  - SnapKit
+  - SnapKitExtend
+  - Then
+  - Toast-Swift
+  - TTTAttributedLabel
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - EmptyDataSet-Swift
+    - HandyJSON
+    - HMSegmentedControl
+    - IQKeyboardManagerSwift
+    - JXSegmentedView
+    - Kingfisher
+    - LCActionSheet
+    - Masonry
+    - MBProgressHUD
+    - MJRefresh
+    - Moya
+    - PPBadgeView
+    - RealReachability
+    - Reusable
+    - SCLAlertView
+    - SnapKit
+    - SnapKitExtend
+    - Then
+    - Toast-Swift
+    - TTTAttributedLabel
+
+SPEC CHECKSUMS:
+  Alamofire: e447a2774a40c996748296fa2c55112fdbbc42f9
+  EmptyDataSet-Swift: eb382c0c87a2d9c678077385a595cec52da38171
+  HandyJSON: 9e4e236f5d2dbefad5155a77417bbea438201c03
+  HMSegmentedControl: 34c1f54d822d8308e7b24f5d901ec674dfa31352
+  IQKeyboardManagerSwift: c7df9d2deb356c04522f5c4b7b6e4ce4d8ed94fe
+  JXSegmentedView: eb1cad21f57c2543c00c3e08b8fd3c7ca54f5acd
+  Kingfisher: 6c3df386db71d82c0817a429d2c9421a77396529
+  LCActionSheet: a015dee43c54c8f6631e86facd9e2ad59dc1b5ab
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+  MJRefresh: d2c1970d1cf6e77fcfcdfe76c943dfab8dbfa5c1
+  Moya: 5b45dacb75adb009f97fde91c204c1e565d31916
+  PPBadgeView: b50a223638970fd0781e8753250385864b6dd2fe
+  RealReachability: eae9c58d2db52fadd8e1cba4b5d4c028454fbc47
+  Reusable: 53a9acf5c536f229b31b5865782414b508252ddb
+  SCLAlertView: 6a77bb2edfc65e04dbe57725546cb4107a506b85
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+  SnapKitExtend: aa30cf37196195fae9c4354686cc7710184ebfcc
+  Then: acfe0be7e98221c6204e12f8161459606d5d822d
+  Toast-Swift: 9b6a70f28b3bf0b96c40d46c0c4b9d6639846711
+  TTTAttributedLabel: 8cffe8e127e4e82ff3af1e5386d4cd0ad000b656
+
+PODFILE CHECKSUM: 71a675a281ab01552c1bbcd958fe73e3b570df01
+
+COCOAPODS: 1.10.1
